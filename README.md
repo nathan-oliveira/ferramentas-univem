@@ -6,10 +6,10 @@ RA: 630004
 https://github.com/nathan-oliveira/ferramentas-univem
 
 
-# Print 01
+# Trello 01
 ![img](./print1.png)
 
-# Print 02
+# Trello 02
 ![img](./print2.png)
 
 # Aula Jupyter
