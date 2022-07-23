@@ -11,3 +11,6 @@ https://github.com/nathan-oliveira/ferramentas-univem
 
 # Print 02
 ![img](./print2.png)
+
+# Aula Jupyter
+![img](./jupyter%20-%20aula1.png)
